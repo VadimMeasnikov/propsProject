@@ -1,0 +1,11 @@
+.line-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+h1{
+  text-align: center;
+}
